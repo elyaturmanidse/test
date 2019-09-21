@@ -1,0 +1,98 @@
+[
+    {
+      "question": "Who likes carrots the most?",
+      "choice1": "Utochka",
+      "choice2": "Kifly",
+      "choice3": "Kolobok",
+      "choice4": "Lapi",
+      "answer": 4
+    },
+    {
+      "question": "Where did our animals NOT go with us?",
+      "choice1": "Paris",
+      "choice2": "Rostock",
+      "choice3": "Russia",
+      "choice4": "Neverlands",
+      "answer": 2
+    },
+    {
+      "question": "How do you spell name of our lil finantial advisor?",
+      "choice1": "Kolabok",
+      "choice2": "Kolobok",
+      "choice3": "Kalobok",
+      "choice4": "Kalabok",
+      "answer": 2
+    },
+    {
+        "question": "Who likes circus the most?",
+        "choice1": "Elya",
+        "choice2": "Kifly",
+        "choice3": "Kolobok",
+        "choice4": "Maximilian",
+        "answer": 2
+      },
+      {
+        "question": "What is Kifly's fav Disney movie?",
+        "choice1": "Bambi",
+        "choice2": "Ariel",
+        "choice3": "Dumbo",
+        "choice4": "Peter Pan",
+        "answer": 3
+      },
+      {
+        "question": "Who likes haires the most?",
+        "choice1": "Maximilian",
+        "choice2": "Lapi",
+        "choice3": "Elya",
+        "choice4": "Kurochka",
+        "answer": 3
+      },
+      {
+        "question": "When was Lapi born?",
+        "choice1": "Easter",
+        "choice2": "New Year",
+        "choice3": "Full Moon",
+        "choice4": "Christmas",
+        "answer": 4
+      },
+      {
+        "question": "Where did Kifly come from?",
+        "choice1": "Food Messe",
+        "choice2": "Animal Circus",
+        "choice3": "Baby Messe",
+        "choice4": "Was found on the street",
+        "answer": 3
+      },
+      {
+        "question": "Where is Kolobok from?",
+        "choice1": "Russia",
+        "choice2": "Italy",
+        "choice3": "Wall Street",
+        "choice4": "Germany",
+        "answer": 1
+      },
+      {
+        "question": "Who is the owner of the strongest ears on Planet Earth (and beyond)?",
+        "choice1": "Kifly",
+        "choice2": "Maximilian",
+        "choice3": "Kolobok",
+        "choice4": "Lapi",
+        "answer": 4
+      },
+      {
+        "question": "What is Kifly's biggest dream?",
+        "choice1": "Learn to speak Russian",
+        "choice2": "That Kolobok one day lets him keep his pocket money",
+        "choice3": "Run away with some street circus",
+        "choice4": "That everyone is happy and there are lots of butterflies around",
+        "answer": 2
+      },
+      {
+        "question": "Кто твое любимое животное?",
+        "choice1": "Колобок",
+        "choice2": "Лапи",
+        "choice3": "Кифли",
+        "choice4": "Люблю всех",
+        "answer": 4
+      }
+  ]
