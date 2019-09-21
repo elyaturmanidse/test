@@ -41,7 +41,7 @@ let questions = [
   ];
 
   //lesson 10 
-fetch("questionsRus.json")
+fetch("questions.json")
   .then(res => {
     return res.json();
   })
